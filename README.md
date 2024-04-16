@@ -6,6 +6,7 @@ description:
 
 # Research and Development
 Geoinformatics Laboratory, IIT Kanpur has been contributing to the national development and international scientific community by carrying out original research and development in various areas. Various consultancy and sponsored research projects undertaken by the laboratory are listed here.<br>
+<img width="897" alt="Screenshot 2024-04-16 at 14 41 08" src="https://github.com/Anurag-kuswaha/shivesh/assets/73064862/d9aeb318-b1cc-472f-9ad9-6589d7c620a5">
 
 * * *
 ## Sponsored Research Projects
